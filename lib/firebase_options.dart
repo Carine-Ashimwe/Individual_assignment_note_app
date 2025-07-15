@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyBDRf9lZ-xa-SxFU2f5LcJNKdc_MuRM0Os',
     appId: '1:460141980414:web:a75cf61d1b3181f16553af',
     messagingSenderId: '460141980414',
-    projectId: 'notes-app-tj',
+    projectId: 'notes-app-ea21a',
     authDomain: 'notes-app-tj.firebaseapp.com',
     storageBucket: 'notes-app-tj.firebasestorage.app',
     measurementId: 'G-CXHG49RF9E',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyCx-H_52Qu--zJ5R_RDOZ6xUd78wPbcooA',
     appId: '1:460141980414:android:352f96f02ab680136553af',
     messagingSenderId: '460141980414',
-    projectId: 'notes-app-tj',
+    projectId: 'notes-app-ea21a',
     storageBucket: 'notes-app-tj.firebasestorage.app',
   );
 
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyBjOqZTyAtDcys4JDpYoXrkGI9adCh68QQ',
     appId: '1:460141980414:ios:88f00db3ba0306316553af',
     messagingSenderId: '460141980414',
-    projectId: 'notes-app-tj',
+    projectId: 'notes-app-ea21a',
     storageBucket: 'notes-app-tj.firebasestorage.app',
     iosBundleId: 'com.example.notesApp',
   );
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyBjOqZTyAtDcys4JDpYoXrkGI9adCh68QQ',
     appId: '1:460141980414:ios:88f00db3ba0306316553af',
     messagingSenderId: '460141980414',
-    projectId: 'notes-app-tj',
+    projectId: 'notes-app-ea21a',
     storageBucket: 'notes-app-tj.firebasestorage.app',
     iosBundleId: 'com.example.notesApp',
   );
@@ -80,7 +80,7 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyBDRf9lZ-xa-SxFU2f5LcJNKdc_MuRM0Os',
     appId: '1:460141980414:web:bbf4580d69507ac16553af',
     messagingSenderId: '460141980414',
-    projectId: 'notes-app-tj',
+    projectId: 'notes-app-ea21a',
     authDomain: 'notes-app-tj.firebaseapp.com',
     storageBucket: 'notes-app-tj.firebasestorage.app',
     measurementId: 'G-S3WTV21NH0',
